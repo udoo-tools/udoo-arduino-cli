@@ -1,5 +1,7 @@
 # UDOO Arduino CLI
 
+## Note: Script needs to be updated. More detailed information can be found in the page https://www.thegoodpenguin.co.uk/blog/stop-using-sys-class-gpio-its-deprecated/
+
 It's for anybody who is looking for a headless command line compiler and flasher for your UDOO board to build and upload your Arduino sketches directly and internally from inside a UDOO Linux shell.
 
 ![udoo-arduino-cli-overview-screenshot](https://cloud.githubusercontent.com/assets/410087/6638846/5ba1c97c-c98a-11e4-885a-11c362930203.png)
